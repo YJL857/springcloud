@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a43ceddb-b8e7-434d-9956-c8fbcfbc25cd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ITfield" beforeDir="false" afterPath="$PROJECT_DIR$/../ITfield" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ULServer/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ULServer/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ULServer/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ULServer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ULServer/src/main/java/com/jinliang/UlServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ULServer/src/main/java/com/jinliang/annotation/ResponseResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ULServer/src/main/java/com/jinliang/config/InterceptorConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ULServer/src/main/java/com/jinliang/config/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ULServer/src/main/java/com/jinliang/controller/UserInfoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ULServer/src/main/java/com/jinliang/entity/UserInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ULServer/src/main/java/com/jinliang/entity/basic/BasicInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ULServer/src/main/java/com/jinliang/entity/basic/Result.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ULServer/src/main/java/com/jinliang/generator/MybatisPlusGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ULServer/src/main/java/com/jinliang/handler/GlobalResponseHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ULServer/src/main/java/com/jinliang/interceptor/UserLoginInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ULServer/src/main/java/com/jinliang/mapper/UserInfoMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ULServer/src/main/java/com/jinliang/service/IUserInfoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ULServer/src/main/java/com/jinliang/service/impl/UserInfoServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ULServer/src/main/java/com/jinliang/ulenum/ResultEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ULServer/src/main/java/com/jinliang/unit/timeUnit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ULServer/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ULServer/src/main/resources/mapper/UserInfoMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ULServer/src/test/java/com/jinliang/UlServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study" beforeDir="false" afterPath="$PROJECT_DIR$/../study" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../userlogin" beforeDir="false" afterPath="$PROJECT_DIR$/../userlogin" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\WorkHome\apache-maven-3.6.3-bin\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\WorkHome\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2BcTLiu7Dwoi1HXsebp8FRNpcjX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-cloud-commons/src/main/java/com/yejinliang/it" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WorkHome\workSpace\springcloud\spring-cloud-commons\src\main\java\com\yejinliang\it" />
+      <recent name="E:\WorkHome\workSpace\springcloud\spring-cloud-consumer-order80\src\main\java\com\yejinliang\it" />
+      <recent name="E:\WorkHome\workSpace\springcloud\spring-cloud-consumer-order80\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yejinliang.it.itenum" />
+      <recent name="com.yejinliang.it.generator" />
+      <recent name="com.yejinliang.it.config" />
+      <recent name="com.yejinliang.it.vo" />
+      <recent name="com.yejinliang.it.entity" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Order80Application">
+    <configuration name="MybatisPlusGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yejinliang.it.generator.MybatisPlusGenerator" />
+      <module name="spring-cloud-provider-payment8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yejinliang.it.generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Order80Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yejinliang.it.Order80Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Payment8001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-provider-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yejinliang.it.Payment8001Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MybatisPlusGenerator" />
+      <item itemvalue="Spring Boot.Payment8001Application" />
+      <item itemvalue="Spring Boot.Order80Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MybatisPlusGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a43ceddb-b8e7-434d-9956-c8fbcfbc25cd" name="Changes" comment="" />
+      <created>1657204320051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657204320051</updated>
+      <workItem from="1657204321278" duration="8059000" />
+      <workItem from="1657212471253" duration="1115000" />
+      <workItem from="1657213621144" duration="6293000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

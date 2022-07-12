@@ -1,0 +1,15 @@
+package com.yejinliang.it;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+/**
+ * @author yejinliang
+ * @create 2022-07-08 1:29
+ */
+@SpringBootApplication
+public class Order80Application {
+    public static void main(String[] args) {
+        SpringApplication.run(Order80Application.class, args);
+    }
+}
