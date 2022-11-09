@@ -8,6 +8,7 @@ import com.yejinliang.it.vo.PaymentVO;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.*;
 
 /**
@@ -25,6 +26,9 @@ public class PaymentController {
     @Autowired
     private IPaymentService paymentService;
 
+    @Value("${server.port}")
+    private String serverPort;
+
     @ApiOperation(value = "创建", notes = "创建")
     @PostMapping("/create")
     public Result create(@RequestBody PaymentVO paymentVO) {
@@ -35,7 +39,7 @@ public class PaymentController {
     @GetMapping("/getById/{id}")
     public Result getById(@PathVariable("id") Long id) {
         PaymentDao byId = paymentService.getById(id);
-        return Result.success(byId);
+        return Result.success("nacos serverPort :" + serverPort + "\t id :" + byId);
     }
 
 }

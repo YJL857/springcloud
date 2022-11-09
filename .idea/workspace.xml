@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a43ceddb-b8e7-434d-9956-c8fbcfbc25cd" name="Changes" comment="">
+    <list default="true" id="a43ceddb-b8e7-434d-9956-c8fbcfbc25cd" name="Changes" comment="添加springcloud项目">
       <change beforePath="$PROJECT_DIR$/../ITfield" beforeDir="false" afterPath="$PROJECT_DIR$/../ITfield" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ULServer/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ULServer/mvnw" beforeDir="false" />
@@ -29,6 +29,52 @@
       <change beforePath="$PROJECT_DIR$/../ULServer/src/main/resources/application.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ULServer/src/main/resources/mapper/UserInfoMapper.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ULServer/src/test/java/com/jinliang/UlServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-commons/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-commons/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-commons/target/classes/com/yejinliang/it/entity/basic/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-commons/target/classes/com/yejinliang/it/itenum/ResultEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-commons/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-commons/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-commons/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-commons/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-commons/target/springcloud.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-consumer-order80/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-consumer-order80/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-consumer-order80/src/main/java/com/yejinliang/it/Order80Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-consumer-order80/src/main/java/com/yejinliang/it/Order80Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-consumer-order80/src/main/java/com/yejinliang/it/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-consumer-order80/src/main/java/com/yejinliang/it/config/ApplicationContextConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-consumer-order80/src/main/java/com/yejinliang/it/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-consumer-order80/src/main/java/com/yejinliang/it/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-consumer-order80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-consumer-order80/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-consumer-order80/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-consumer-order80/target/classes/com/yejinliang/it/Order80Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-consumer-order80/target/classes/com/yejinliang/it/config/ApplicationContextConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-consumer-order80/target/classes/com/yejinliang/it/config/SwaggerConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-consumer-order80/target/classes/com/yejinliang/it/controller/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-consumer-order80/target/classes/com/yejinliang/it/vo/PaymentVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-consumer-order80/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-consumer-order80/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-consumer-order80/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-consumer-order80/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-consumer-order80/target/springcloud.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-provider-payment8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-provider-payment8001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-provider-payment8001/src/main/java/com/yejinliang/it/Payment8001Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-provider-payment8001/src/main/java/com/yejinliang/it/Payment8001Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-provider-payment8001/src/main/java/com/yejinliang/it/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-provider-payment8001/src/main/java/com/yejinliang/it/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-provider-payment8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-provider-payment8001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-provider-payment8001/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-provider-payment8001/target/classes/com/yejinliang/it/Payment8001Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-provider-payment8001/target/classes/com/yejinliang/it/config/SwaggerConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-provider-payment8001/target/classes/com/yejinliang/it/controller/PaymentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-provider-payment8001/target/classes/com/yejinliang/it/entity/PaymentDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-provider-payment8001/target/classes/com/yejinliang/it/generator/MybatisPlusGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-provider-payment8001/target/classes/com/yejinliang/it/mapper/PaymentMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-provider-payment8001/target/classes/com/yejinliang/it/service/IPaymentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-provider-payment8001/target/classes/com/yejinliang/it/service/impl/PaymentServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-provider-payment8001/target/classes/com/yejinliang/it/vo/PaymentVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-provider-payment8001/target/classes/mapper/PaymentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-provider-payment8001/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-provider-payment8001/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-provider-payment8001/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-provider-payment8001/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-provider-payment8001/target/springcloud.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../study" beforeDir="false" afterPath="$PROJECT_DIR$/../study" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../userlogin" beforeDir="false" afterPath="$PROJECT_DIR$/../userlogin" afterDir="false" />
     </list>
@@ -50,7 +96,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -76,14 +122,18 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-cloud-commons/src/main/java/com/yejinliang/it" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.12706482" />
+    <property name="project.structure.side.proportion" value="0.23177844" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -104,8 +154,10 @@
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
-      <command value="mvn clean" />
+      <command value="mvn package" />
       <command value="mvn install" />
+      <command value="mvn clean package" />
+      <command value="mvn clean" />
     </option>
   </component>
   <component name="RunDashboard">
@@ -169,10 +221,34 @@
       <workItem from="1657204321278" duration="8059000" />
       <workItem from="1657212471253" duration="1115000" />
       <workItem from="1657213621144" duration="6293000" />
+      <workItem from="1657632377280" duration="78000" />
+      <workItem from="1664009151088" duration="786000" />
+      <workItem from="1667656332393" duration="175000" />
+      <workItem from="1667656529239" duration="10547000" />
+      <workItem from="1667998279844" duration="12628000" />
     </task>
+    <task id="LOCAL-00001" summary="添加springcloud项目">
+      <created>1657632437758</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657632437758</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加springcloud项目">
+      <created>1667659503638</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667659503638</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加springcloud项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加springcloud项目" />
   </component>
 </project>
